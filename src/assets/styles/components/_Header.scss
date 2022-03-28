@@ -1,0 +1,14 @@
+.header {
+  color: aqua;
+  border: 1px solid red;
+  font-size: large;
+
+  &-container {
+    border: 1px solid blue;
+    padding: 10px;
+  }
+
+  &-link {
+    color: $link-green;
+  }
+}
